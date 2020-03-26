@@ -13,7 +13,7 @@ export default () => {
         if(data){
             myRepos = JSON.parse(data);
             setReposCount(myRepos.length);
-            myRepos = myRepos.slice(1,13);
+            
             return setRepos(myRepos);
         }
         async function fetchRepos(){
@@ -21,6 +21,7 @@ export default () => {
             myRepos = await response.json();
             
             sessionStorage.setItem("repos", JSON.stringify(myRepos));
+            myRepos = myRepos.slice(1,13);
             setRepos(myRepos);
         }
 

@@ -1,0 +1,15 @@
+{
+    "slug": "presencial",
+    "title": "Formación académica",
+    "description" : "Formación académica, grados de estudio e instituciones a las que asistí",
+    "items": [
+        {
+            "name": "Universidad de las Fuerzas Armadas - ESPE",
+            "degree": "Ing. en Sistemas e Informática"
+        },
+        {
+            "name": "Unidad Educativa Jim Irwin",
+            "degree": "Bachiller en Ciencias"
+        }
+    ]
+}

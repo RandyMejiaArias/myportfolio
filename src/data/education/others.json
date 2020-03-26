@@ -1,0 +1,11 @@
+{
+    "slug": "others",
+    "title": "Otros logros académicos",
+    "description" : "Talleres, diplomados y conferencias en las que he participado",
+    "items": [
+        {
+            "name": "Universidad de las Fuerzas Armadas - ESPE, Instituto de Idiomas",
+            "degree": "Suficiencia en el Idioma Extranjero Inglés"
+        }
+    ]
+}

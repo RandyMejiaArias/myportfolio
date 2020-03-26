@@ -1,0 +1,23 @@
+{
+    "slug": "online",
+    "title": "Cursos en línea",
+    "description" : "Cursos finalizados en plataformas de educación en Internet",
+    "items": [
+        {
+            "platform": "CódigoFacilito",
+            "name": "Curso profesional de PHP",
+            "url": "http://codigofacilito.com/courses/php-profesional",
+            "code": "7c8cb7ca-44ef-47e9-ab3b-2b60cbcdabf5" 
+        },
+        {
+            "platform": "CódigoFacilito",
+            "name": "JavaScript y el DOM",
+            "url": "http://codigofacilito.com/courses/javascript-dom"
+        },
+        {
+            "platform": "CódigoFacilito",
+            "name": "Curso de Fundamentos de React",
+            "url": "http://codigofacilito.com/courses/react-intro-gratis"
+        }
+    ]
+}
